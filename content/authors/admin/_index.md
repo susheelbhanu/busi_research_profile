@@ -73,4 +73,4 @@ highlight_name: true
 Susheel Bhanu Busi is a Postdoctoral Researcher in the Systems Ecology group at the Luxembourg Centre for Systems Biomedicine at University of Luxembourg. His research interests include all things related to the microbiome, spanning both mammalian and environmental systems. His research expertise involves both wet- and dry-lab experience with specialised skills in multi-omic integration, biofilms, and antimicrobial resistance. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Susheel_Busi.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
